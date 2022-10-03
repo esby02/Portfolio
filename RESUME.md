@@ -12,3 +12,8 @@ Yard and construction work
 - Playing with lego
 - Reading
 - Drawing
+
+## Typing
+- keys learned
+  - J,F, and Space
+  - U, R, and K
