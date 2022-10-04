@@ -17,4 +17,5 @@ Yard and construction work
 - keys learned
   - J,F, and Space
   - U, R, and K
-- 30 WPM
+  - D, E, and I
+- 31 WPM
