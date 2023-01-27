@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int l,w;
+	int w,l;
 	printf("Enter length: ");
 	scanf("%i", &l);
 	printf("Enter width: ");
